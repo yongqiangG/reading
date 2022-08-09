@@ -19,3 +19,8 @@ Record all reading about Java
 [8.阻塞与非阻塞队列.md](./docs/Java并发编程的艺术/8.阻塞与非阻塞队列.md)
 
 [9.线程池.md](./docs/Java并发编程的艺术/9.线程池.md)
+
+## 《重学Java设计模式》
+[1.创建者模式.md](./docs/重学Java设计模式/1.创建者模式.md)
+
+[2.结构性模式.md](./docs/重学Java设计模式/2.结构性模式.md)
